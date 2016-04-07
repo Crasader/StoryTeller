@@ -1,0 +1,13 @@
+*.tlog
+storyTeller/proj.win32/Debug.win32/CloseNormal.png
+storyTeller/cocos2d/cocos/editor-support/spine/proj.win32/Debug.win32/libSpine.idb
+storyTeller/cocos2d/external/bullet/proj.win32/Debug.win32/libbullet.idb
+*.idb
+storyTeller/proj.win32/Debug.win32/storyTeller.exp
+storyTeller/proj.win32/Debug.win32/libcocos2d.exp
+storyTeller/proj.win32/Debug.win32/fonts/arial.ttf
+storyTeller/proj.win32/Debug.win32/game.res
+storyTeller/proj.win32/Debug.win32/fonts/Marker Felt.ttf
+storyTeller/proj.win32/Debug.win32/HelloWorld.png
+storyTeller/proj.win32/storyTeller.sdf
+storyTeller/proj.win32/Debug.win32/CloseSelected.png
